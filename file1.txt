@@ -1,1 +1,2 @@
-this is file one
+this is file one.i am editing to test. if we have committed from any other branches the changes is seen in that branch only. i case 
+in case of merge only wecan see any changes or the same content in all branches.
