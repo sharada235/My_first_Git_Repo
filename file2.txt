@@ -1,1 +1,3 @@
-this is file two. unless we have not merged any changes can not be seen in any branches.
+this is file two. unless we have not merged, any changes can not be seen in any branches. i understood till now but
+what happens to the files that need changes when pushed up in git repositories. do i need to use clone or download tab and change in that file?
+and work on that and again push it in repository?
